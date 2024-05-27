@@ -2,7 +2,7 @@
 
 ## 📄 Descripción del proyecto
 
-Este proyecto realiza adquisición de datos a través de una API (Rick and Morty). Los datos se obtienen a través de una función con una consulta 'requests' integrada. Tras ello, se procesan y analizan los datos enfocándose en la proporción de géneros y el tamaño de las especies. Finalmente se visualizan los resultados para proporcionar una visión clara y comprensible del universo de Rick and Morty.
+Este proyecto realiza adquisición de datos a través de una API (Rick and Morty). Para obtener los datos de todos los personajes se utiliza una función con una consulta 'requests' integrada. Tras ello, se procesan y analizan los datos enfocándose en la proporción de géneros y el tamaño de las especies. Finalmente se visualizan los resultados para proporcionar una visión clara y comprensible del universo de Rick and Morty.
 
 ## 📚 Contenido
 
