@@ -30,7 +30,7 @@ Las visualizaciones muestran la distribución de géneros entre los personajes y
 
 ## 📌 Conclusiones
 
-- **Diversidad de Géneros**: la proporción de géneros entre los personajes de Rick y Morty revela una tendencia con un total de 73,9% correspondiente al género 'Male'.
+- **Diversidad de Géneros**: la proporción de géneros entre los personajes de Rick y Morty revela una tendencia hacia el género 'Male', el cual es un 73,9% del total.
 - **Variedad de Especies**: el análisis del tamaño de las especies destaca la riqueza y variedad biológica en el universo de Rick y Morty, teniendo 2 especies predominantes: 'Human' y 'Alien'.
 
 ## 🚀 Instalación
