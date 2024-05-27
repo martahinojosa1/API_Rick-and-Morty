@@ -55,7 +55,7 @@ pip install -r requirements.txt
 
 - Nombre: Marta Hinojosa
 - Email: martahinojosa.001@gmail.com
-- LinkedIn: [tuperfil](https://www.linkedin.com/in/marta-hinojosa-jimenez/)
+- LinkedIn: https://www.linkedin.com/in/marta-hinojosa-jimenez/
 
 
 
