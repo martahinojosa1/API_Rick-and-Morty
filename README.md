@@ -38,7 +38,7 @@ Las visualizaciones muestran la distribución de géneros entre los personajes y
 Para ejecutar este proyecto localmente, sigue estos pasos:
 
 1. Clona el repositorio:
-git clone https://github.com/martahinojosa1/rick-and-morty-data-analysis.git
+git clone https://github.com/martahinojosa1/API_Rick-and-Morty.git
 
 2. Navega al directorio del proyecto:
 cd rick-and-morty-data-analysis
