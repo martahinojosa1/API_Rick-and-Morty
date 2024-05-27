@@ -18,11 +18,11 @@ Los datos fueron obtenidos de la [API de Rick and Morty](https://rickandmortyapi
 
 ## 📈 Visualizaciones
 
-### Proporción de Géneros
+### Proporción de géneros
 
 ![Proporción de Géneros](img/proporcion_generos.png)
 
-### Tamaño de las Especies
+### Tamaño de las especies
 
 ![Tamaño de las Especies](img/especies.png)
 
