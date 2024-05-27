@@ -6,12 +6,11 @@ Este proyecto analiza los datos de la API de Rick and Morty, enfocándose en la 
 
 ## 📚 Contenido del Proyecto
 
-- [Descripción del Proyecto](#descripción-del-proyecto)
-- [Datos Utilizados](#datos-utilizados)
-- [Visualizaciones](#visualizaciones)
-- [Conclusiones](#conclusiones)
-- [Instalación](#instalación)
-- [Contacto](#contacto)
+- Datos utilizados.
+- Visualizaciones.
+- Conclusiones.
+- Instalación y uso.
+- Contacto.
 
 ## 📊 Datos Utilizados
 
@@ -39,5 +38,25 @@ Las visualizaciones muestran la distribución de géneros entre los personajes y
 Para ejecutar este proyecto localmente, sigue estos pasos:
 
 1. Clona el repositorio:
+git clone https://github.com/martahinojosa1/rick-and-morty-data-analysis.git
+
+2. Navega al directorio del proyecto:
+cd rick-and-morty-data-analysis
+
+3. Crea y activa un entorno virtual (opcional pero recomendado):
+virtualenv venv
+source venv/bin/activate # En Windows usa venv\Scripts\activate
+
+4. Instala las dependencias:
+pip install -r requirements.txt
+
+
+## 📧 Contacto
+
+- Nombre: Marta Hinojosa
+- Email: martahinojosa.001@gmail.com
+- LinkedIn: [tuperfil](https://www.linkedin.com/in/marta-hinojosa-jimenez/)
+
+
 
  
