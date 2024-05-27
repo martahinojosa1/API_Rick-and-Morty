@@ -1,8 +1,8 @@
-# Rick&Morty Data Analysis
+# Rick&Morty Data Analysis - Obtención de datos a través de una API
 
 ## 📄 Descripción del Proyecto
 
-Este proyecto analiza los datos de la API de Rick and Morty, enfocándose en la proporción de géneros y el tamaño de las especies. Los datos han sido obtenidos, preprocesados y visualizados para proporcionar una visión clara y comprensible del universo de Rick and Morty.
+Este proyecto realiza adquisición de datos a través de una API (Rick and Morty). Los datos se obtienen a través de una función con una consulta 'requests' integrada. Tras ello, se procesan y analizan los datos enfocándose en la proporción de géneros y el tamaño de las especies. Finalmente se visualizan los resultados para proporcionar una visión clara y comprensible del universo de Rick and Morty.
 
 ## 📚 Contenido del Proyecto
 
@@ -14,24 +14,24 @@ Este proyecto analiza los datos de la API de Rick and Morty, enfocándose en la 
 
 ## 📊 Datos Utilizados
 
-Los datos fueron obtenidos de la [API de Rick and Morty](https://rickandmortyapi.com/). El conjunto de datos incluye información sobre los personajes, sus géneros, especies y otras características relevantes.
+Los datos fueron obtenidos de la [API de Rick and Morty](https://rickandmortyapi.com/). El conjunto de datos incluye información sobre los personajes, sus géneros, episodios, especies y otras características relevantes.
 
 ## 📈 Visualizaciones
 
 ### Proporción de Géneros
 
-![Proporción de Géneros](path/to/gender_proportion_visualization.png)
+![Proporción de Géneros](img/proporcion_generos.png)
 
 ### Tamaño de las Especies
 
-![Tamaño de las Especies](path/to/species_size_visualization.png)
+![Tamaño de las Especies](img/especies.png)
 
 Las visualizaciones muestran la distribución de géneros entre los personajes y la variedad de tamaños de las especies presentes en el universo de Rick and Morty.
 
 ## 📌 Conclusiones
 
-- **Diversidad de Géneros**: La proporción de géneros entre los personajes de Rick y Morty revela una diversidad significativa.
-- **Variedad de Especies**: El análisis del tamaño de las especies destaca la riqueza y variedad biológica en el universo de Rick y Morty.
+- **Diversidad de Géneros**: la proporción de géneros entre los personajes de Rick y Morty revela una tendencia con un total de 73,9% correspondiente al género 'Male'.
+- **Variedad de Especies**: el análisis del tamaño de las especies destaca la riqueza y variedad biológica en el universo de Rick y Morty, teniendo 2 especies predominantes: 'Human' y 'Alien'.
 
 ## 🚀 Instalación
 
