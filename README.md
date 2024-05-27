@@ -14,7 +14,7 @@ Este proyecto realiza adquisición de datos a través de una API (Rick and Morty
 
 ## 📊 Datos Utilizados
 
-Los datos fueron obtenidos de la [API de Rick and Morty](https://rickandmortyapi.com/). El conjunto de datos incluye información sobre los personajes, sus géneros, episodios, especies y otras características relevantes.
+Los datos fueron obtenidos de la [API de Rick and Morty](https://rickandmortyapi.com/). El conjunto de datos incluye información sobre los personajes, sus géneros, episodios, especies y otras características relevantes.  
 
 ## 📈 Visualizaciones
 
